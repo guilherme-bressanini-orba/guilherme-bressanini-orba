@@ -2,12 +2,9 @@
 
 Tenho interesse em desenvolvimento de software, automação e soluções tecnológicas que otimizam processos. Estou sempre buscando aprender e aprimorar minhas habilidades para enfrentar novos desafios na área de tecnologia.
 
-💻 Áreas de interesse:
+Áreas de interesse:
 
-Suporte e infraestrutura de TI
-Redes e conectividade
-Automação de tarefas
-Programação e desenvolvimento de software
+Suporte e infraestrutura de TI, redes e conectividade, automação de tarefas, programação e desenvolvimento de software
 
 <!--
 **guilherme-bressanini-orba/guilherme-bressanini-orba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
