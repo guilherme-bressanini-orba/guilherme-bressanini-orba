@@ -1,4 +1,4 @@
-## Minha jornada na tecnologia começou no SENAI, e atualmente estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas na Unisociesc. Trabalho no setor de TI do escritório Oliveira & Antuines Advogados Associados, onde sou responsável por suporte técnico, configuração de equipamentos e resolução de questões relacionadas à infraestrutura.
+## Minha jornada na tecnologia começou no SENAI, e atualmente estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas na Unisociesc. Trabalho no setor de TI do escritório Oliveira & Antunes Advogados Associados, onde sou responsável por suporte técnico, configuração de equipamentos e resolução de questões relacionadas à infraestrutura.
 
 Tenho interesse em desenvolvimento de software, automação e soluções tecnológicas que otimizam processos. Estou sempre buscando aprender e aprimorar minhas habilidades para enfrentar novos desafios na área de tecnologia.
 
